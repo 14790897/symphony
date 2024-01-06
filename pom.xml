@@ -31,7 +31,7 @@
         <user-agent-utils.version>1.21</user-agent-utils.version>
         <es.version>2.3.1</es.version>
         <owasp.version>1.2.3</owasp.version>
-        <snakeyaml.version>1.32</snakeyaml.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
         <javax.mail.version>1.6.2</javax.mail.version>
         <commons-cli.version>1.5.0</commons-cli.version>
 
